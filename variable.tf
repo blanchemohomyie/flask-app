@@ -1,6 +1,6 @@
 variable "key_name" {
   type = string
-  default = "keyforDestop"
+  default = "Demo1 Key"
 }
 
 variable "region" {
